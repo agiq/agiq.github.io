@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Break down complex requirement into simpler byte-size concept using pseudo-code and flow chart. Then, iterate through the process until condition is no longer satisfied.
 
-## Fraud Detection
+# Fraud Detection
 
   Train a model to help businesses detect fraud, identify and prevent unauthorized financial activities such as  fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
