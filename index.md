@@ -6,9 +6,13 @@ layout: default
 
 Break down complex requirement into simpler byte-size concept using pseudo-code and flow chart. Then, iterate through the process until condition is no longer satisfied.
 
+<center><img src="/assets/img/flowchart3.jpg"/></center>
+
 # Fraud Detection
 
   Train a model to help businesses detect fraud, identify and prevent unauthorized financial activities such as  fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+<center><img src="/assets/img/fraud_detection.jpg"/></center>
 
 ### Header 3
 
